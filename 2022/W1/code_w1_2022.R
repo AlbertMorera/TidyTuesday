@@ -20,7 +20,7 @@ fellowship_by_movie <-
   select(char, chart)
 
 fellowship_img <- paste0("https://github.com/AlbertMorera/TidyTuesday/blob/main/2022/W1/fellowship/",
-                         fellowship_by_movie$char,".jpg?raw=true",sep="")
+                         fellowship_by_movie$char,".jpg?raw=true")
 
 fellowship_total <-
   fellowship %>%
