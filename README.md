@@ -3,7 +3,7 @@
 
 ## Latest Visualizations
 
-### **[Week 2 - 2022 | The Fellowship of the Ring Dialogs (2022W2)](2022/W2)**
+### **[Week 2 - 2022 | Bee colonies decline (2022W2)](2022/W2)**
 I analyze what are the reasons for the decline of bee colonies in different US states and throughout the year. We see that *Varroa mites* is the main factor causing the decline and that it occurs mainly between July and September.
 
 Data extracted from [USDA](https://usda.library.cornell.edu/concern/publications/rn301137d?locale=en).
