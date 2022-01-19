@@ -3,6 +3,11 @@
 
 ## Latest Visualizations
 
+### **[Week 3 - 2022 | Origin of cocoa beans to make chocolate (2022W2)](2022/W3)**
+Data extracted from [Flavours of Cacao](http://flavorsofcacao.com/chocolate_database.html).
+
+![Screenshot](2022/W3/chocolate.png)
+
 ### **[Week 2 - 2022 | Bee colonies decline (2022W2)](2022/W2)**
 I analyze what are the reasons for the decline of bee colonies in different US states and throughout the year. We see that *Varroa mites* is the main factor causing the decline and that it occurs mainly between July and September.
 
