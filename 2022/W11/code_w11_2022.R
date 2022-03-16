@@ -34,7 +34,7 @@ p <- ggplot(cloud, aes(label = package, size = n, col = n, angle = angle)) +
   scale_color_distiller(palette = "Dark2") +
   scale_size_area(max_size = 30) +
   labs(title = "My most released CRAN-packages",
-       subtitle = "Which of my installed CRAN packages are the most published?", 
+       subtitle = "Which of my installed CRAN packages are the most released?", 
        caption = "#TidyTuesday Week 10 - 2022 | Data from Robert Flight | Chart by @_AlbertMorera") +
   theme_minimal() +
   theme(panel.background = element_rect(color = "gray25", fill = "gray25"),
